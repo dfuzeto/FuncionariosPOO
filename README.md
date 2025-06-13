@@ -1,5 +1,5 @@
 # Projeto Sistema de Pagamento - Java 💰
-### 📋 Descrição
+## 📋 Descrição
 Projeto simples para estudar conceitos básicos de orientação a objetos em Java, focando em:
 
  🧩 Interfaces: Criação da interface Funcionario para definir o contrato de cálculo de salário e dados básicos.
@@ -10,7 +10,7 @@ Projeto simples para estudar conceitos básicos de orientação a objetos em Jav
 
 📚 Arrays e Laços: Uso de array para armazenar diferentes objetos que implementam a mesma interface e iterar para mostrar as informações.
 
-### 🚀 O que foi implementado
+## 🚀 O que foi implementado
 Interface Funcionario com métodos para calcular salário e obter dados pessoais.
 
 Três classes concretas com regras diferentes para calcular salário.
